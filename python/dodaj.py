@@ -3,7 +3,9 @@
 
 
 def main(args):
-    print('Witaj Python!')
+    a = input('Podaj liczbę: ')
+    b = input('Podaj liczbę: ')
+    print("Suma:", int(a) + int(b))
     return 0
 
 if __name__ == '__main__':
