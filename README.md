@@ -1,4 +1,4 @@
-# gitrepo1BP4
+# gitrepo2BP4 2020_21
 
 Repozytorium dla kodów źródłowych w Pythonie i nie tylko.
 
