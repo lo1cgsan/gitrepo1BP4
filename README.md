@@ -1,4 +1,4 @@
-# gitrepo2BP4 2020_21
+# Klasy 2 P4 2020
 
 Repozytorium dla kodów źródłowych w Pythonie i nie tylko.
 
